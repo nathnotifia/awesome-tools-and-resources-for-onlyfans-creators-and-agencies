@@ -1,6 +1,24 @@
-# 11 MUST have tools for OnlyFans Agencies & OnlyFans Managers
+# Tools for OnlyFans Creators & Agencies
 
-> Write-up of the YouTube video by [Nath Aston](https://www.youtube.com/@nathaston): https://youtu.be/t4Cd_phoJu8
+The tools I actually use to run an OnlyFans agency — plus the full ranked list from my video.
+
+## The current stack
+
+The list above is the video as originally published. Below is what's actually in Nathan's stack today, running an OnlyFans agency in practice. Some links are affiliate/referral links — using them supports the channel at no extra cost to you; they're marked below.
+
+- **[Fansly](https://5vpe.short.gy/bddlRu)** *(affiliate link)* — OnlyFans alternative; verified backup account in case of platform issues.
+- **[Fansmetric](https://5vpe.short.gy/ikT1Ps)** *(affiliate link)* — OnlyFans analytics dashboard: LTV, average order value, cohorts.
+- **Airtable** — spreadsheet-database hybrid; runs the agency's ops dashboards, QA views, and critical-issue tracking, with every view flagged 🔴/🟠/🟢 by severity.
+- **Apify** — web scraping and automation platform; used to build and run custom scrapers (e.g. trend and content data pipelines) at scale.
+- **GetAllMyLinks** — link-in-bio page consolidating all agency/creator links in one place.
+- **Paxum** — payment processor built for adult-industry payouts, used to pay creators, chatters, and contractors where mainstream processors won't touch OnlyFans-adjacent money.
+- **OnlyFans API** — third-party API access to OnlyFans account data, used for building custom automation, reporting, and internal tools.
+
+Affiliate/referral links weren't available for Airtable, Apify, GetAllMyLinks, Paxum, or the OnlyFans API — those are listed as plain tool recommendations above.
+
+## From the video: 11 must-have tools
+
+> Write-up of [11 MUST have tools for OnlyFans Agencies & OnlyFans Managers](https://youtu.be/t4Cd_phoJu8) by [Nath Aston](https://www.youtube.com/@nathaston).
 
 ## Summary
 
@@ -24,17 +42,3 @@ A ranked tools list for running an OnlyFans agency or managing creators, from ba
 
 - Watch: https://youtu.be/t4Cd_phoJu8
 - Newsletter: https://nathaston.beehiiv.com/subscribe
-
-## Nathan's Current Stack (Updated)
-
-The list above is the video as originally published. Below is what's actually in Nathan's stack today, running an OnlyFans agency in practice. Some links are affiliate/referral links — using them supports the channel at no extra cost to you; they're marked below.
-
-- **[Fansly](https://5vpe.short.gy/bddlRu)** *(affiliate link)* — OnlyFans alternative; verified backup account in case of platform issues.
-- **[Fansmetric](https://5vpe.short.gy/ikT1Ps)** *(affiliate link)* — OnlyFans analytics dashboard: LTV, average order value, cohorts.
-- **Airtable** — spreadsheet-database hybrid; runs the agency's ops dashboards, QA views, and critical-issue tracking, with every view flagged 🔴/🟠/🟢 by severity.
-- **Apify** — web scraping and automation platform; used to build and run custom scrapers (e.g. trend and content data pipelines) at scale.
-- **GetAllMyLinks** — link-in-bio page consolidating all agency/creator links in one place.
-- **Paxum** — payment processor built for adult-industry payouts, used to pay creators, chatters, and contractors where mainstream processors won't touch OnlyFans-adjacent money.
-- **OnlyFans API** — third-party API access to OnlyFans account data, used for building custom automation, reporting, and internal tools.
-
-Affiliate/referral links weren't available for Airtable, Apify, GetAllMyLinks, Paxum, or the OnlyFans API — those are listed as plain tool recommendations above.
