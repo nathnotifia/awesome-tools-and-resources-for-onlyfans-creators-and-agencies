@@ -1,6 +1,6 @@
-# 11 Must-Have Tools for OnlyFans Agencies & Managers
+# 11 MUST have tools for OnlyFans Agencies & OnlyFans Managers
 
-> Write-up of the YouTube video [11 MUST have tools for OnlyFans Agencies & OnlyFans Managers](https://youtu.be/t4Cd_phoJu8) by [Nath Aston](https://www.youtube.com/@nathaston). Ranked by how often Nathan actually uses each tool day-to-day running an OnlyFans agency — not by any paid placement.
+> Write-up of the YouTube video by [Nath Aston](https://www.youtube.com/@nathaston): https://youtu.be/t4Cd_phoJu8
 
 ## Summary
 
