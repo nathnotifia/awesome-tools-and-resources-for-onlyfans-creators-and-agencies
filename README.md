@@ -4,7 +4,7 @@ The tools I actually use to run an OnlyFans agency — plus the full ranked list
 
 ## The current stack
 
-The list above is the video as originally published. Below is what's actually in Nathan's stack today, running an OnlyFans agency in practice. Some links are affiliate/referral links — using them supports the channel at no extra cost to you; they're marked below.
+What I actually use day-to-day running an OnlyFans agency. Some links are affiliate/referral links — using them supports the channel at no extra cost to you; they're marked below.
 
 - **[Fansly](https://5vpe.short.gy/bddlRu)** *(affiliate link)* — OnlyFans alternative; verified backup account in case of platform issues.
 - **[Fansmetric](https://5vpe.short.gy/ikT1Ps)** *(affiliate link)* — OnlyFans analytics dashboard: LTV, average order value, cohorts.
@@ -22,7 +22,7 @@ Affiliate/referral links weren't available for Airtable, Apify, GetAllMyLinks, P
 
 ## Summary
 
-A ranked tools list for running an OnlyFans agency or managing creators, from backup platforms and analytics through to the inbox-management tool ("Supercreator") Nathan's chatting team uses daily. Sorted least → most frequently used, so the list builds toward the tools that actually run the business.
+A ranked tools list for running an OnlyFans agency or managing creators, from backup platforms and analytics through to the inbox-management tool ("Supercreator") my chatting team uses daily. Sorted least → most frequently used, so the list builds toward the tools that actually run the business.
 
 ## Key points
 
@@ -35,7 +35,7 @@ A ranked tools list for running an OnlyFans agency or managing creators, from ba
 5. **[Snaptik](https://Snaptik.com)** — free TikTok downloader, no watermark.
 4. **[Fansmetric](https://5vpe.short.gy/ikT1Ps)** — OnlyFans analytics dashboard (LTV, average order value, cohorts).
 3. **Browser profile management** — GoLogin / MultiLogin / Adspower, for running many isolated browser profiles at once.
-2. **[Notion](https://5vpe.short.gy/3AwgdC)** — Nathan's tool for dashboards, SOPs, and running the whole agency.
+2. **[Notion](https://5vpe.short.gy/3AwgdC)** — my tool for dashboards, SOPs, and running the whole agency.
 1. **[Supercreator](https://5vpe.short.gy/ZWlyQb)** (code `TRIAL30`) — the daily driver: inbox templates, sent/sold tracking, dynamic PPV pricing by spend tier.
 
 ## Links
