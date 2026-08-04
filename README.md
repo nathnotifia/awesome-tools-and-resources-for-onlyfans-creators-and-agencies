@@ -2,9 +2,24 @@
 
 The tools I actually use to run an OnlyFans agency — plus the full ranked list from my video.
 
-## The current stack
+## Creator Tools
 
-What I actually use day-to-day running an OnlyFans agency. Some links are affiliate/referral links — using them supports the channel at no extra cost to you; they're marked below.
+- **[Fansly](https://5vpe.short.gy/bddlRu)** *(affiliate link)* — OnlyFans alternative; verified backup account in case of platform issues.
+
+### 🔗Deep Linking
+
+
+
+## Agency tools
+
+### Analytics
+4. **[Fansmetric](https://5vpe.short.gy/ikT1Ps)** — OnlyFans analytics dashboard (LTV, average order value, cohorts).
+
+
+
+
+
+
 
 - **[Fansly](https://5vpe.short.gy/bddlRu)** *(affiliate link)* — OnlyFans alternative; verified backup account in case of platform issues.
 - **[Fansmetric](https://5vpe.short.gy/ikT1Ps)** *(affiliate link)* — OnlyFans analytics dashboard: LTV, average order value, cohorts.
@@ -31,9 +46,6 @@ A ranked tools list for running an OnlyFans agency or managing creators, from ba
 9. **UseStir.com** — payments/invoicing for creators working with agencies (not OnlyFans-specific).
 8. **[Infloww](https://5vpe.short.gy/ozfB2A)** — share-for-share promotion network + agency-side account management (multi-inbox, employee/revenue tracking).
 7. **OF Autofollower** — follow/unfollow automation targeting expired and new OnlyFans subscribers.
-6. **[Postpone](https://5vpe.short.gy/5EbWdh)** — Reddit scheduling built for OnlyFans creators (bulk scheduling, analytics, automation).
-5. **[Snaptik](https://Snaptik.com)** — free TikTok downloader, no watermark.
-4. **[Fansmetric](https://5vpe.short.gy/ikT1Ps)** — OnlyFans analytics dashboard (LTV, average order value, cohorts).
 3. **Browser profile management** — GoLogin / MultiLogin / Adspower, for running many isolated browser profiles at once.
 2. **[Notion](https://5vpe.short.gy/3AwgdC)** — my tool for dashboards, SOPs, and running the whole agency.
 1. **[Supercreator](https://5vpe.short.gy/ZWlyQb)** (code `TRIAL30`) — the daily driver: inbox templates, sent/sold tracking, dynamic PPV pricing by spend tier.
