@@ -1,4 +1,4 @@
-# Tools for OnlyFans Creators & Agencies
+# Awesome Tools & Resources for OnlyFans Creators & Agencies
 
 The tools I actually use to run an OnlyFans agency — plus the full ranked list from my video.
 
@@ -6,28 +6,52 @@ The tools I actually use to run an OnlyFans agency — plus the full ranked list
 
 - **[Fansly](https://5vpe.short.gy/bddlRu)** *(affiliate link)* — OnlyFans alternative; verified backup account in case of platform issues.
 
-### 🔗Deep Linking
+🔗 **Deep Linking**
 
-
-
-## Agency tools
-
-### Analytics
-4. **[Fansmetric](https://5vpe.short.gy/ikT1Ps)** — OnlyFans analytics dashboard (LTV, average order value, cohorts).
-
-
-
-
-
-
-
-- **[Fansly](https://5vpe.short.gy/bddlRu)** *(affiliate link)* — OnlyFans alternative; verified backup account in case of platform issues.
-- **[Fansmetric](https://5vpe.short.gy/ikT1Ps)** *(affiliate link)* — OnlyFans analytics dashboard: LTV, average order value, cohorts.
-- **Airtable** — spreadsheet-database hybrid; runs the agency's ops dashboards, QA views, and critical-issue tracking, with every view flagged 🔴/🟠/🟢 by severity.
-- **Apify** — web scraping and automation platform; used to build and run custom scrapers (e.g. trend and content data pipelines) at scale.
+- **[Oopsie.bio](https://oopsie.bio)** — stealth deep linking straight into the OnlyFans app; clean page for Instagram/TikTok scrapers, geo-blocking, per-click analytics and A/B testing. Paid in crypto, free tier available.
 - **GetAllMyLinks** — link-in-bio page consolidating all agency/creator links in one place.
-- **Paxum** — payment processor built for adult-industry payouts, used to pay creators, chatters, and contractors where mainstream processors won't touch OnlyFans-adjacent money.
+
+## Agency Tools
+
+🗂️ **Operations**
+
+- **Airtable** — spreadsheet-database hybrid; runs the agency's ops dashboards, QA views, and critical-issue tracking, with every view flagged 🔴/🟠/🟢 by severity.
+
+🌐 **Browser & Profile Management**
+
+- **[AdsPower](https://www.adspower.com)** — antidetect browser; run many isolated browser profiles in parallel, each with its own fingerprint and proxy.
+- **[GoLogin](https://gologin.com)** — antidetect browser for multi-accounting; isolated profiles with unique fingerprints, team sharing built in.
+
+📱 **Remote Phone Control**
+
+- **[ALI Remote](https://aliremote.com)** *(UseAli)* — remote control and automate a farm of real iPhones from one dashboard: account creation, scheduled posting, team roles, productivity reports.
+- **[GeeLark](https://www.geelark.com)** — cloud Android phones with per-device proxies and TikTok automation; no physical hardware to manage.
+- **[DuoPlus](https://www.duoplus.net)** — ARM-based cloud phones for multi-account social media ops; bulk app management and anti-association fingerprints.
+
+💬 **Telegram Groups & Trend Finders**
+
+- **Apify** — web scraping and automation platform; used to build and run custom scrapers (e.g. trend and content data pipelines) at scale.
+
+📊 **Analytics & Tracking**
+
+- **[Fansmetric](https://5vpe.short.gy/ikT1Ps)** *(affiliate link)* — OnlyFans analytics dashboard: LTV, average order value, cohorts.
 - **OnlyFans API** — third-party API access to OnlyFans account data, used for building custom automation, reporting, and internal tools.
+
+🗨️ **Chatting Agencies**
+
+<!-- chatting agencies go here -->
+
+🧑‍💼 **Hiring**
+
+<!-- hiring tools go here -->
+
+📸 **Recruiting Models**
+
+<!-- recruiting tools go here -->
+
+💸 **Payments**
+
+- **Paxum** — payment processor built for adult-industry payouts, used to pay creators, chatters, and contractors where mainstream processors won't touch OnlyFans-adjacent money.
 
 Affiliate/referral links weren't available for Airtable, Apify, GetAllMyLinks, Paxum, or the OnlyFans API — those are listed as plain tool recommendations above.
 
